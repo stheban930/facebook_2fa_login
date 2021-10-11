@@ -1,1 +1,1 @@
-docker build -t <your_name>/selenium .
+docker build -t <StthebanOlivaRes> /selenium.
